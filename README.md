@@ -7,6 +7,8 @@ This project predicts diabetes using a deep learning model (ANN) trained on medi
 - TensorFlow / Keras
 - Pandas, NumPy
 - Scikit-learn
+- MySQL
+- flask
 
 ## Dataset
 PIMA Indians Diabetes Dataset
